@@ -6,9 +6,9 @@ A Christmas Day special video created on **25 December**, capturing festive vibe
 
 ## 🎬 Video Preview
 
-<video src="./christmas-video.mp4" controls autoplay muted loop width="100%"></video>
 
----
+https://github.com/user-attachments/assets/93b374a6-7c03-4c01-9a62-4f2939829c12
+
 
 ## 📌 Project Info
 - 📅 Date: 25 December  
